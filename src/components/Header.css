@@ -1,12 +1,12 @@
 .header {
     overflow: hidden;
-    background-color: #d0b3d1;
+    background-color: #2f273b;
 
 }
 
 .header p {
     float: left;
-    color: rgb(116, 13, 93);
+    color: rgb(66, 42, 61);
     text-align: center;
     padding: 10px;
     text-decoration: none;

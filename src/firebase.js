@@ -2,12 +2,13 @@ import firebase from "firebase/compat/app";
 import "firebase/compat/database";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBvDn-8xFu4X5jUnDKWF-chl7DmMOEV8yY",
-  authDomain: "ken-crud.firebaseapp.com",
-  projectId: "ken-crud",
-  storageBucket: "ken-crud.appspot.com",
-  messagingSenderId: "350583604992",
-  appId: "1:350583604992:web:0a7722045f812d2d0ed5e5"
+  apiKey: "AIzaSyB1VzjKRMzGiXFEHWO97nU-gIeZWW6KfpA",
+  authDomain: "crud-og.firebaseapp.com",
+  databaseURL: "https://crud-og-default-rtdb.firebaseio.com",
+  projectId: "crud-og",
+  storageBucket: "crud-og.appspot.com",
+  messagingSenderId: "273530776752",
+  appId: "1:273530776752:web:3cb7b8e32b71928f519f75"
 };
 
   
